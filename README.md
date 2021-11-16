@@ -1,1 +1,1 @@
-# CancerClassification-CNN
+# CancerClassification-ConvolutionNeuralNetworks
